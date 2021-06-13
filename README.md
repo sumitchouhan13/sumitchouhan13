@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumitchouhan13
 - 👀 I’m interested in Machine Learning , Artificial Intelligence , Android Development , Full Stack Development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on everythin possible :)
+- 💞️ I’m looking to collaborate on everything possible :)
 - 📫 How to reach me 1805615@kiit.ac.in
 
 <!---
